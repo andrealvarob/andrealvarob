@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://br.linkedin.com/in/andrealvarob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/andrealvarob" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/andrealvaro.bezerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/andrealvaro.bezerra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrealvarob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/andrealvarob" height="30" width="40" /></a>
+<a href="https://www.facebook.com/andrealvaro.bezerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/andrealvaro.bezerra" height="30" width="40" /></a>
 <a href="https://discord.gg/andrealvarob#8992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="andrealvarob#8992" height="30" width="40" /></a>
 </p>
 
